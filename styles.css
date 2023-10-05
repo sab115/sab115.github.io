@@ -82,6 +82,15 @@ html {
     text-decoration: none;
     letter-spacing: 2px;
   }
+
+  .nav-list a:hover {
+    color: rgb(245, 192, 32);
+    text-decoration: underline;
+  }
+  
+  .nav-list a:active {
+    color: rgb(245, 192, 32);
+  }
   
   .footer {
     display: flex;
